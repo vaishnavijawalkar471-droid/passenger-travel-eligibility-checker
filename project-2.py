@@ -1,6 +1,6 @@
 print(" PASSENGER TRAVEL CHECKER")
-print("hi this program checks if you can travel")
-name = input("whats your name? ")
+print("hi! this program checks if you can travel")
+name = input("what's your name? ")
 print("hey " + name + "!")
 print("")
 
@@ -10,7 +10,7 @@ try:
         raise ValueError
         print("")
 except ValueError:
-    print("bro thats not even a number lol")
+    print("bro, that's not even a number, lol")
     print("restart the program and enter properly")
     exit()
 
