@@ -5,7 +5,7 @@ A beginner-friendly Python CLI application that checks whether a passenger is el
 Designed as a logic-heavy practice project using conditionals, loops, exception handling, and user input validation.
 
 🚀 Features
- 
+
 Interactive command-line experience
 
 Validates:
