@@ -1,5 +1,5 @@
 print(" PASSENGER TRAVEL CHECKER")
-print("hi! this program checks if you can travel")
+print("Hello! This program checks if you can travel")
 name = input("what's your name? ")
 print("hey " + name + "!")
 print("")
