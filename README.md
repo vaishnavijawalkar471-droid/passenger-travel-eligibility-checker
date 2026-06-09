@@ -4,7 +4,7 @@
 A beginner-friendly Python CLI application that checks whether a passenger is eligible for international travel based on age, documents, visa status, health conditions, and  security rules.        
 
 Designed as a logic-heavy practice project using conditionals, loops, exception handling, and user input validation.
-
+ 
 🚀 Features
       
 Interactive command-line experience   
