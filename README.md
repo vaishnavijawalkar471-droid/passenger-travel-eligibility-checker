@@ -9,7 +9,7 @@ Designed as a logic-heavy practice project using conditionals, loops, exception 
        
 Interactive command-line experience      
  
-Validates:   
+Validates:      
 
 Age
  
